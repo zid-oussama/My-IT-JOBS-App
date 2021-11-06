@@ -1,0 +1,19 @@
+export const AUTH_LOAD = "AUTH_LOAD";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_FAIL = "AUTH_FAIL";
+
+export const REGISTER_LOAD = "REGISTER_LOAD";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+export const LOGIN_LOAD = "LOGIN_LOAD";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+export const LOGOUT_LOAD = "LOGOUT_LOAD";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const LOGOUT_FAIL = "LOGOUT_FAIL";
+
+export const DELETE_ACCOUNT_LOAD = "DELETE_ACCOUNT_LOAD";
+export const DELETE_ACCOUNT_SUCCESS = "DELETE_ACCOUNT_SUCCESS";
+export const DELETE_ACCOUNT_FAIL = "DELETE_ACCOUNT_FAIL";
